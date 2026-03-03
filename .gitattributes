@@ -1,0 +1,4 @@
+* text=auto
+*.java text diff=java
+/mvnw text eol=lf
+*.cmd text eol=crlf
